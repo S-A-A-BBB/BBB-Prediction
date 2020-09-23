@@ -1,5 +1,6 @@
 # BBB-Prediction
-1- This code can be excused to  predict BBB permeability using DNN model and CNN model. The dataset is found under the folder Dataset: ORGINAL DATASET WITH FINGERPRINTS.csv
+1- This code can be excused to  predict BBB permeability using DNN model and CNN model. The dataset is found in the link:
+https://www.dropbox.com/s/pv2cmxqaknvjkll/ORGINAL%20DATASET%20WITH%20FINGERPRINTS.csv?dl=0
 
 2- The original dataset is a high dimensional dataset with 2350 records and around 7000 descriptors and fingerprints.
 
