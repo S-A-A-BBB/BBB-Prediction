@@ -1,8 +1,7 @@
 # BBB-Prediction
-1- This code can be excused to  predict BBB permeability using DNN model and CNN model. The dataset is found in the link:
-https://www.dropbox.com/s/pv2cmxqaknvjkll/ORGINAL%20DATASET%20WITH%20FINGERPRINTS.csv?dl=0
+1- This code can be excused to  predict BBB permeability using DNN model and CNN model. The dataset is obtained from Wang et. al 2018.
 
-2- The original dataset is a high dimensional dataset with 2350 records and around 7000 descriptors and fingerprints.
+2- 1D, 2D, 3D descriptors (and) two types of Fingerprints Hashed and MACCS 166 were claculated using Alvascience and Ochem. 
 
 3- This dataset dimensionality is reduced using Kernel PCA. This is done under the folder: preprocessing -> non_pca.py
 
